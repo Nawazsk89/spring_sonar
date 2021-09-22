@@ -1,0 +1,7 @@
+organization=nawazspringboot
+projectKey=nawazspringboot
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23376
+dashboardUrl=https://sonarcloud.io/dashboard?id=nawazspringboot
+ceTaskId=AXwNgG7qudHN5xkSaVES
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXwNgG7qudHN5xkSaVES
